@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Zws Site
+name: Ads Site
 
 # Name of the author
-author: Zws Ad
+author: Ads Zw
 
 # Short bio or description (displayed in the header)
 description: I am only a basic learner. In addition, I am committed to lifelong learning and development.
@@ -24,14 +24,14 @@ footer-links:
   email: 169708666+zwsiteadmin@users.noreply.github.com
   facebook:
   flickr:
-  github: zwsiteadmin/zwsiteadmin.github.io
+  github: adzwsite/adzwsite.github.io
   instagram:
   linkedin: 
   pinterest:
   rss: rss
   twitter: zuhaworldt
   stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/zuhaworld or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
   mastodon: # mastodon.world/@zwsad eg. fosstodon.org/@username
@@ -46,16 +46,16 @@ google_analytics: UA-43339302-11
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
 
-# Your website URL (e.g. http://zwsiteadmin.github.io or http://www.amitmerchant.com)
+# Your website URL (e.g. http://adzwsite.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
 url: http://www.amitmerchant.com/reverie
 enforce_ssl: https://www.amitmerchant.com/reverie
 
 # If you're hosting your site at a Project repository on GitHub pages
-# (http://github.com/zwsiteadmin/zwsiteadmin.github.io)
-# and NOT your User repository (http://zwsiteadmin.github.io)
-# then add in the baseurl here, like this: "/zwsiteadmin.github.io"
-baseurl: "/zwsiteadmin.github.io"
+# (http://github.com/adzwsite/adzwsite.github.io)
+# and NOT your User repository (http://adzwsite.github.io)
+# then add in the baseurl here, like this: "/adzwsite.github.io"
+baseurl: "/adzwsite.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
