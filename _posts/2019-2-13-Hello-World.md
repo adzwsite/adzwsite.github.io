@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Code snippets in a blog post
+title:  Hello World
 categories: [HTML,Code]
 ---
 
